@@ -1,0 +1,32 @@
+Reference,Value,Footprint,Qty,Description
+BZ1,Buzzer,Buzzer_Beeper:MagneticBuzzer_ProSignal_ABI-009-RC,1,"Buzzer, polarized"
+C1,2.2nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,Unpolarized capacitor
+"C2,C3",100nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,Unpolarized capacitor
+"C4,C10",10nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,Unpolarized capacitor
+"C5,C8,C9",1uF,Capacitor_SMD:C_1206_3216Metric,3,Unpolarized capacitor
+"C6,C7",470uF,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,2,Polarized capacitor
+"C11,C12",22pF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,Unpolarized capacitor
+D1,MBRD1045,Package_TO_SOT_SMD:TO-252-2,1,"Schottky diode, anode on pins 1 and 3"
+D2,LED_Power,LED_THT:LED_D3.0mm,1,Light emitting diode
+D3,LED_Active,LED_THT:LED_D3.0mm,1,Light emitting diode
+J1,Power,CustomConnectors:Battery_3V7_Cable_solding_connctor,1,"Generic connector, single row, 01x02, script generated"
+J2,SERVOA,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,1,"Generic connector, single row, 01x03, script generated"
+J3,SERVOB,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,1,"Generic connector, single row, 01x03, script generated"
+J4,SERVOC,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,1,"Generic connector, single row, 01x03, script generated"
+J5,SERVOD,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,1,"Generic connector, single row, 01x03, script generated"
+J6,BMP0,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,1,"Generic connector, single row, 01x04, script generated"
+J7,BMP1,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,1,"Generic connector, single row, 01x04, script generated"
+J8,UART,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,1,"Generic connector, single row, 01x04, script generated"
+J9,Prog,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,1,"Generic connector, single row, 01x08, script generated"
+L1,47uH,Inductor_SMD:L_Bourns_SRP1245A,1,"Inductor with ferrite core, small symbol"
+Q1,IRLR8726,Package_TO_SOT_SMD:TO-252-2,1,"35A Id, 60V Vds, N-Channel Power MOSFET, 18mOhm Ron, 19.3nC Qg (typ), TO252"
+R1,5.1k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,Resistor
+"R2,R3,R7,R8",1.8k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4,Resistor
+"R4,R5,R6",10k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,3,Resistor
+RV1,2k,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical,1,Potentiometer
+U1,LGT8F328P,Package_QFP:LQFP-32_7x7mm_P0.8mm,1,AVR-arch LGTX8-core 32MHz 8-bit MCU
+U2,MPU6050,Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm,1,"InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C"
+U3,W25Q64FV,Package_DIP:DIP-8_W7.62mm_Socket_LongPads,1,"16Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"
+U4,XL6019,Package_TO_SOT_SMD:TO-263-5_TabPin3,1,DC-DC 5A 36V Impulse PULLUP converter
+U5,LD2981_SOT89,Package_TO_SOT_SMD:SOT-89-3,1,"Positive 100mA 30V Linear Regulator, Fixed Output 3.3V, SOT-89"
+Y1,32 MHz,Crystal:Crystal_HC49-4H_Vertical,1,Two pin crystal
