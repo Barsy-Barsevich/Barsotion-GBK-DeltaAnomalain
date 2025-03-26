@@ -13,7 +13,7 @@ The clock frequency is 32 MHz provided by design, however before the flight 07.0
 ## Software
 - [DeltaAnomalain flight software](https://github.com/Barsy-Barsevich/KILKA_Soft)
 
-## Progress
+## Continious progress
 - [Previous version: Barsotion GBK GammaAnomalain](https://github.com/Barsy-Barsevich/Barsotion-GBK-GammaAnomalain)
 - [Next version: Barsotion-EA (GBK EpsilonAnomalain](https://github.com/Barsy-Barsevich/Barsotion-EA)
 
