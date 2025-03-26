@@ -10,6 +10,13 @@ Board computer for OKB Iva "Kilka" rocket, 2024
 
 The clock frequency is 32 MHz provided by design, however before the flight 07.07.2024 we need to reduce it to 16 MHz, unless the computer was unstable in working.
 
+## Software
+- [DeltaAnomalain flight software](https://github.com/Barsy-Barsevich/KILKA_Soft)
+
+## Progress
+- [Previous version: Barsotion GBK GammaAnomalain](https://github.com/Barsy-Barsevich/Barsotion-GBK-GammaAnomalain)
+- [Next version: Barsotion-EA (GBK EpsilonAnomalain](https://github.com/Barsy-Barsevich/Barsotion-EA)
+
 ![](./Photo/pic3.jpg)
 ![](./Photo/pic1.jpg)
 ![](./Photo/pic2.jpg)
